@@ -19,7 +19,7 @@
   ![Snake animation](https://github.com/luiiizz/luiiizz/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-  
+
 </div>
   
 
